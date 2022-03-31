@@ -14,7 +14,7 @@
 		<commons-collections.version>4.1</commons-collections.version>
 		<commons-io.version>2.4</commons-io.version>
 		<commons-logging.version>1.2</commons-logging.version>
-		<spring.version>5.0.9.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<org.slf4j.version>1.7.21</org.slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 		<log4j-slf4j.version>1.7.5</log4j-slf4j.version>
